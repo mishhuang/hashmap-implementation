@@ -1,4 +1,4 @@
-# Description: Data structures necessary to complete the hashmap implementations
+# Description: Data structures necessary to complete the hashmap implementations provided as part of OSU CS261
 
 # -------------- Used by both HashMaps (SC & OA)  -------------- #
 
